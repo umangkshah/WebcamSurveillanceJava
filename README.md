@@ -24,3 +24,4 @@ C:\opencv\build\common\tbb\ia32\vc10\;C:\opencv\build\x86\vc10\bin\;
 
 Refer Image files.png to see where the files in javxcomm package are to be copied to ensure that the program can use javax.comm package
 
+Courtesy of java serial port communication: https://www.youtube.com/watch?v=8rnCzYv_8WU
